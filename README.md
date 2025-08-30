@@ -80,7 +80,7 @@
 
 ## 📄 许可证
 
-本项目采用GPL-3.0 license许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
+本项目采用GPL-3.0许可证 - 查看 [GPL-3.0](LICENSE) 文件了解详情
 
 ## 🙏 致谢
 
