@@ -1,6 +1,5 @@
 # 多边形通用插件优化版 (Polygon Universal Plugin)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://chrome.google.com/webstore)
-[![License: GUN]([https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins?tab=GPL-3.0-1-ov-file#))
 
 一个功能强大的Chrome浏览器插件，专为红框类审核设计，可在坐标旁永久显示相关内容，提供丰富的自定义选项和智能布局功能。
 
