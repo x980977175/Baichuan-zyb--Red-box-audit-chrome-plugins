@@ -1,7 +1,7 @@
 # 多边形通用插件优化版 (Polygon Universal Plugin)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://chrome.google.com/webstore)
 
-一个功能强大的Chrome浏览器插件，专为红框类审核设计，可在坐标旁永久显示相关内容，提供丰富的自定义选项和智能布局功能。
+一个功能强大的Chrome浏览器插件，专为红框类审核设计，可在坐标旁永久显示相关内容（含置灰框），提供丰富的自定义选项和智能布局功能。
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/6.png "效果")
 
 ## ✨ 主要功能
 
@@ -40,20 +40,26 @@
 - 字体家族、大小和粗细
 - 背景颜色和透明度
 - 文字颜色和透明度
-- 特殊字符显示
+- 特殊字符显示  
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/2.png "效果")
 
 ### 高级设置
 - 防重叠布局算法强度
 - 警告阈值设置
 - 连接线优化
 - 最大扩展距离
-- 悬停高亮效果
+- 悬停高亮效果  
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/3.png "效果")
 
 ### 规则设置
 - 自定义高亮规则（关键词+颜色）
 - 行高亮规则
-- 字体颜色规则
-
+- 字体颜色规则  
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/4.png "效果")
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/1.png "效果")
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/5.png "效果")
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/7.png "效果")
+![这是图片](https://github.com/x980977175/Baichuan-zyb--Red-box-audit-chrome-plugins/blob/main/%E6%8F%92%E4%BB%B6%E5%9B%BE%E7%89%87/8.png "效果")
 ## 🔧 技术细节
 
 - 使用MutationObserver监听DOM变化，实时更新标签
