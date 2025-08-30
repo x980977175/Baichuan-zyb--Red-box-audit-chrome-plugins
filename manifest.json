@@ -1,0 +1,24 @@
+
+
+  // @author   ocr xd
+{
+  "name": "单选框内容显示",
+  "description": "单选框内容显示",
+  "manifest_version": 3,
+ 
+ "version": "2.31",
+  "action":{
+"default_popup":"",
+"default-icon":""
+},
+  "browser_action": {
+    "default_icon": ""
+  },
+  "content_scripts": [
+    {
+      "matches":  ["https://www.baichuanweb.com/produce/*"],
+      "js": ["abc/script.js"]
+    }
+
+  ]
+}
